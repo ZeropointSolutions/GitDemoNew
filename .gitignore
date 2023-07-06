@@ -3,15 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-<<<<<<< HEAD
+
 # VS Directories from C# Course
 **/ [InheritanceHwDemoApp]
 **/ [InheritanceMiniProjectApp]
 **/ [MiniProjectHomeWorkApp]
 **/ [NewInheritanceDemoApp]
 
-=======
->>>>>>> parent of 4bd2723 (Removed Vs Directories For  C# Course)
 # User-specific files
 *.rsuser
 *.suo
