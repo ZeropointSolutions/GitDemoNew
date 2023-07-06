@@ -4,10 +4,10 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # VS Directories from C# Course
-**/ InheritanceHwDemoApp
-**/ InheritanceMiniProjectApp
-**/ MiniProjectHomeWorkApp
-**/ NewInheritanceDemoApp
+**/ [InheritanceHwDemoApp]
+**/ [InheritanceMiniProjectApp]
+**/ [MiniProjectHomeWorkApp]
+**/ [NewInheritanceDemoApp]
 
 # User-specific files
 *.rsuser
